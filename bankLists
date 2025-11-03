@@ -1,5 +1,10 @@
 [
  "com.sacombank.ewallet",
   "com.VCB",
-  "com.vietinbank.ipay"
+  "com.vietinbank.ipay",
+  "mobile.acb.com.vn",
+  "com.mbmobile",
+  "com.vib.myvib2",
+  "com.vnpay.bidv",
+  "com.vnpay.EximBankOmni"
 ]
